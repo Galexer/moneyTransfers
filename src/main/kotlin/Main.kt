@@ -1,3 +1,5 @@
+package ru.netology
+
 fun main() {
     val commission = 0.0075
     val minCommission = 3500
